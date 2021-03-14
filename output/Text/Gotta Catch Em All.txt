@@ -1,2236 +1,1119 @@
 
 Name: bulbasaur
-
 Name: ivysaur
-
 Name: venusaur
-
 Name: charmander
-
 Name: charmeleon
-
 Name: charizard
-
 Name: squirtle
-
 Name: wartortle
-
 Name: blastoise
-
 Name: caterpie
-
 Name: metapod
-
 Name: butterfree
-
 Name: weedle
-
 Name: kakuna
-
 Name: beedrill
-
 Name: pidgey
-
 Name: pidgeotto
-
 Name: pidgeot
-
 Name: rattata
-
 Name: raticate
-
 Name: spearow
-
 Name: fearow
-
 Name: ekans
-
 Name: arbok
-
 Name: pikachu
-
 Name: raichu
-
 Name: sandshrew
-
 Name: sandslash
-
 Name: nidoran-f
-
 Name: nidorina
-
 Name: nidoqueen
-
 Name: nidoran-m
-
 Name: nidorino
-
 Name: nidoking
-
 Name: clefairy
-
 Name: clefable
-
 Name: vulpix
-
 Name: ninetales
-
 Name: jigglypuff
-
 Name: wigglytuff
-
 Name: zubat
-
 Name: golbat
-
 Name: oddish
-
 Name: gloom
-
 Name: vileplume
-
 Name: paras
-
 Name: parasect
-
 Name: venonat
-
 Name: venomoth
-
 Name: diglett
-
 Name: dugtrio
-
 Name: meowth
-
 Name: persian
-
 Name: psyduck
-
 Name: golduck
-
 Name: mankey
-
 Name: primeape
-
 Name: growlithe
-
 Name: arcanine
-
 Name: poliwag
-
 Name: poliwhirl
-
 Name: poliwrath
-
 Name: abra
-
 Name: kadabra
-
 Name: alakazam
-
 Name: machop
-
 Name: machoke
-
 Name: machamp
-
 Name: bellsprout
-
 Name: weepinbell
-
 Name: victreebel
-
 Name: tentacool
-
 Name: tentacruel
-
 Name: geodude
-
 Name: graveler
-
 Name: golem
-
 Name: ponyta
-
 Name: rapidash
-
 Name: slowpoke
-
 Name: slowbro
-
 Name: magnemite
-
 Name: magneton
-
 Name: farfetchd
-
 Name: doduo
-
 Name: dodrio
-
 Name: seel
-
 Name: dewgong
-
 Name: grimer
-
 Name: muk
-
 Name: shellder
-
 Name: cloyster
-
 Name: gastly
-
 Name: haunter
-
 Name: gengar
-
 Name: onix
-
 Name: drowzee
-
 Name: hypno
-
 Name: krabby
-
 Name: kingler
-
 Name: voltorb
-
 Name: electrode
-
 Name: exeggcute
-
 Name: exeggutor
-
 Name: cubone
-
 Name: marowak
-
 Name: hitmonlee
-
 Name: hitmonchan
-
 Name: lickitung
-
 Name: koffing
-
 Name: weezing
-
 Name: rhyhorn
-
 Name: rhydon
-
 Name: chansey
-
 Name: tangela
-
 Name: kangaskhan
-
 Name: horsea
-
 Name: seadra
-
 Name: goldeen
-
 Name: seaking
-
 Name: staryu
-
 Name: starmie
-
 Name: mr-mime
-
 Name: scyther
-
 Name: jynx
-
 Name: electabuzz
-
 Name: magmar
-
 Name: pinsir
-
 Name: tauros
-
 Name: magikarp
-
 Name: gyarados
-
 Name: lapras
-
 Name: ditto
-
 Name: eevee
-
 Name: vaporeon
-
 Name: jolteon
-
 Name: flareon
-
 Name: porygon
-
 Name: omanyte
-
 Name: omastar
-
 Name: kabuto
-
 Name: kabutops
-
 Name: aerodactyl
-
 Name: snorlax
-
 Name: articuno
-
 Name: zapdos
-
 Name: moltres
-
 Name: dratini
-
 Name: dragonair
-
 Name: dragonite
-
 Name: mewtwo
-
 Name: mew
-
 Name: chikorita
-
 Name: bayleef
-
 Name: meganium
-
 Name: cyndaquil
-
 Name: quilava
-
 Name: typhlosion
-
 Name: totodile
-
 Name: croconaw
-
 Name: feraligatr
-
 Name: sentret
-
 Name: furret
-
 Name: hoothoot
-
 Name: noctowl
-
 Name: ledyba
-
 Name: ledian
-
 Name: spinarak
-
 Name: ariados
-
 Name: crobat
-
 Name: chinchou
-
 Name: lanturn
-
 Name: pichu
-
 Name: cleffa
-
 Name: igglybuff
-
 Name: togepi
-
 Name: togetic
-
 Name: natu
-
 Name: xatu
-
 Name: mareep
-
 Name: flaaffy
-
 Name: ampharos
-
 Name: bellossom
-
 Name: marill
-
 Name: azumarill
-
 Name: sudowoodo
-
 Name: politoed
-
 Name: hoppip
-
 Name: skiploom
-
 Name: jumpluff
-
 Name: aipom
-
 Name: sunkern
-
 Name: sunflora
-
 Name: yanma
-
 Name: wooper
-
 Name: quagsire
-
 Name: espeon
-
 Name: umbreon
-
 Name: murkrow
-
 Name: slowking
-
 Name: misdreavus
-
 Name: unown
-
 Name: wobbuffet
-
 Name: girafarig
-
 Name: pineco
-
 Name: forretress
-
 Name: dunsparce
-
 Name: gligar
-
 Name: steelix
-
 Name: snubbull
-
 Name: granbull
-
 Name: qwilfish
-
 Name: scizor
-
 Name: shuckle
-
 Name: heracross
-
 Name: sneasel
-
 Name: teddiursa
-
 Name: ursaring
-
 Name: slugma
-
 Name: magcargo
-
 Name: swinub
-
 Name: piloswine
-
 Name: corsola
-
 Name: remoraid
-
 Name: octillery
-
 Name: delibird
-
 Name: mantine
-
 Name: skarmory
-
 Name: houndour
-
 Name: houndoom
-
 Name: kingdra
-
 Name: phanpy
-
 Name: donphan
-
 Name: porygon2
-
 Name: stantler
-
 Name: smeargle
-
 Name: tyrogue
-
 Name: hitmontop
-
 Name: smoochum
-
 Name: elekid
-
 Name: magby
-
 Name: miltank
-
 Name: blissey
-
 Name: raikou
-
 Name: entei
-
 Name: suicune
-
 Name: larvitar
-
 Name: pupitar
-
 Name: tyranitar
-
 Name: lugia
-
 Name: ho-oh
-
 Name: celebi
-
 Name: treecko
-
 Name: grovyle
-
 Name: sceptile
-
 Name: torchic
-
 Name: combusken
-
 Name: blaziken
-
 Name: mudkip
-
 Name: marshtomp
-
 Name: swampert
-
 Name: poochyena
-
 Name: mightyena
-
 Name: zigzagoon
-
 Name: linoone
-
 Name: wurmple
-
 Name: silcoon
-
 Name: beautifly
-
 Name: cascoon
-
 Name: dustox
-
 Name: lotad
-
 Name: lombre
-
 Name: ludicolo
-
 Name: seedot
-
 Name: nuzleaf
-
 Name: shiftry
-
 Name: taillow
-
 Name: swellow
-
 Name: wingull
-
 Name: pelipper
-
 Name: ralts
-
 Name: kirlia
-
 Name: gardevoir
-
 Name: surskit
-
 Name: masquerain
-
 Name: shroomish
-
 Name: breloom
-
 Name: slakoth
-
 Name: vigoroth
-
 Name: slaking
-
 Name: nincada
-
 Name: ninjask
-
 Name: shedinja
-
 Name: whismur
-
 Name: loudred
-
 Name: exploud
-
 Name: makuhita
-
 Name: hariyama
-
 Name: azurill
-
 Name: nosepass
-
 Name: skitty
-
 Name: delcatty
-
 Name: sableye
-
 Name: mawile
-
 Name: aron
-
 Name: lairon
-
 Name: aggron
-
 Name: meditite
-
 Name: medicham
-
 Name: electrike
-
 Name: manectric
-
 Name: plusle
-
 Name: minun
-
 Name: volbeat
-
 Name: illumise
-
 Name: roselia
-
 Name: gulpin
-
 Name: swalot
-
 Name: carvanha
-
 Name: sharpedo
-
 Name: wailmer
-
 Name: wailord
-
 Name: numel
-
 Name: camerupt
-
 Name: torkoal
-
 Name: spoink
-
 Name: grumpig
-
 Name: spinda
-
 Name: trapinch
-
 Name: vibrava
-
 Name: flygon
-
 Name: cacnea
-
 Name: cacturne
-
 Name: swablu
-
 Name: altaria
-
 Name: zangoose
-
 Name: seviper
-
 Name: lunatone
-
 Name: solrock
-
 Name: barboach
-
 Name: whiscash
-
 Name: corphish
-
 Name: crawdaunt
-
 Name: baltoy
-
 Name: claydol
-
 Name: lileep
-
 Name: cradily
-
 Name: anorith
-
 Name: armaldo
-
 Name: feebas
-
 Name: milotic
-
 Name: castform
-
 Name: kecleon
-
 Name: shuppet
-
 Name: banette
-
 Name: duskull
-
 Name: dusclops
-
 Name: tropius
-
 Name: chimecho
-
 Name: absol
-
 Name: wynaut
-
 Name: snorunt
-
 Name: glalie
-
 Name: spheal
-
 Name: sealeo
-
 Name: walrein
-
 Name: clamperl
-
 Name: huntail
-
 Name: gorebyss
-
 Name: relicanth
-
 Name: luvdisc
-
 Name: bagon
-
 Name: shelgon
-
 Name: salamence
-
 Name: beldum
-
 Name: metang
-
 Name: metagross
-
 Name: regirock
-
 Name: regice
-
 Name: registeel
-
 Name: latias
-
 Name: latios
-
 Name: kyogre
-
 Name: groudon
-
 Name: rayquaza
-
 Name: jirachi
-
 Name: deoxys-normal
-
 Name: turtwig
-
 Name: grotle
-
 Name: torterra
-
 Name: chimchar
-
 Name: monferno
-
 Name: infernape
-
 Name: piplup
-
 Name: prinplup
-
 Name: empoleon
-
 Name: starly
-
 Name: staravia
-
 Name: staraptor
-
 Name: bidoof
-
 Name: bibarel
-
 Name: kricketot
-
 Name: kricketune
-
 Name: shinx
-
 Name: luxio
-
 Name: luxray
-
 Name: budew
-
 Name: roserade
-
 Name: cranidos
-
 Name: rampardos
-
 Name: shieldon
-
 Name: bastiodon
-
 Name: burmy
-
 Name: wormadam-plant
-
 Name: mothim
-
 Name: combee
-
 Name: vespiquen
-
 Name: pachirisu
-
 Name: buizel
-
 Name: floatzel
-
 Name: cherubi
-
 Name: cherrim
-
 Name: shellos
-
 Name: gastrodon
-
 Name: ambipom
-
 Name: drifloon
-
 Name: drifblim
-
 Name: buneary
-
 Name: lopunny
-
 Name: mismagius
-
 Name: honchkrow
-
 Name: glameow
-
 Name: purugly
-
 Name: chingling
-
 Name: stunky
-
 Name: skuntank
-
 Name: bronzor
-
 Name: bronzong
-
 Name: bonsly
-
 Name: mime-jr
-
 Name: happiny
-
 Name: chatot
-
 Name: spiritomb
-
 Name: gible
-
 Name: gabite
-
 Name: garchomp
-
 Name: munchlax
-
 Name: riolu
-
 Name: lucario
-
 Name: hippopotas
-
 Name: hippowdon
-
 Name: skorupi
-
 Name: drapion
-
 Name: croagunk
-
 Name: toxicroak
-
 Name: carnivine
-
 Name: finneon
-
 Name: lumineon
-
 Name: mantyke
-
 Name: snover
-
 Name: abomasnow
-
 Name: weavile
-
 Name: magnezone
-
 Name: lickilicky
-
 Name: rhyperior
-
 Name: tangrowth
-
 Name: electivire
-
 Name: magmortar
-
 Name: togekiss
-
 Name: yanmega
-
 Name: leafeon
-
 Name: glaceon
-
 Name: gliscor
-
 Name: mamoswine
-
 Name: porygon-z
-
 Name: gallade
-
 Name: probopass
-
 Name: dusknoir
-
 Name: froslass
-
 Name: rotom
-
 Name: uxie
-
 Name: mesprit
-
 Name: azelf
-
 Name: dialga
-
 Name: palkia
-
 Name: heatran
-
 Name: regigigas
-
 Name: giratina-altered
-
 Name: cresselia
-
 Name: phione
-
 Name: manaphy
-
 Name: darkrai
-
 Name: shaymin-land
-
 Name: arceus
-
 Name: victini
-
 Name: snivy
-
 Name: servine
-
 Name: serperior
-
 Name: tepig
-
 Name: pignite
-
 Name: emboar
-
 Name: oshawott
-
 Name: dewott
-
 Name: samurott
-
 Name: patrat
-
 Name: watchog
-
 Name: lillipup
-
 Name: herdier
-
 Name: stoutland
-
 Name: purrloin
-
 Name: liepard
-
 Name: pansage
-
 Name: simisage
-
 Name: pansear
-
 Name: simisear
-
 Name: panpour
-
 Name: simipour
-
 Name: munna
-
 Name: musharna
-
 Name: pidove
-
 Name: tranquill
-
 Name: unfezant
-
 Name: blitzle
-
 Name: zebstrika
-
 Name: roggenrola
-
 Name: boldore
-
 Name: gigalith
-
 Name: woobat
-
 Name: swoobat
-
 Name: drilbur
-
 Name: excadrill
-
 Name: audino
-
 Name: timburr
-
 Name: gurdurr
-
 Name: conkeldurr
-
 Name: tympole
-
 Name: palpitoad
-
 Name: seismitoad
-
 Name: throh
-
 Name: sawk
-
 Name: sewaddle
-
 Name: swadloon
-
 Name: leavanny
-
 Name: venipede
-
 Name: whirlipede
-
 Name: scolipede
-
 Name: cottonee
-
 Name: whimsicott
-
 Name: petilil
-
 Name: lilligant
-
 Name: basculin-red-striped
-
 Name: sandile
-
 Name: krokorok
-
 Name: krookodile
-
 Name: darumaka
-
 Name: darmanitan-standard
-
 Name: maractus
-
 Name: dwebble
-
 Name: crustle
-
 Name: scraggy
-
 Name: scrafty
-
 Name: sigilyph
-
 Name: yamask
-
 Name: cofagrigus
-
 Name: tirtouga
-
 Name: carracosta
-
 Name: archen
-
 Name: archeops
-
 Name: trubbish
-
 Name: garbodor
-
 Name: zorua
-
 Name: zoroark
-
 Name: minccino
-
 Name: cinccino
-
 Name: gothita
-
 Name: gothorita
-
 Name: gothitelle
-
 Name: solosis
-
 Name: duosion
-
 Name: reuniclus
-
 Name: ducklett
-
 Name: swanna
-
 Name: vanillite
-
 Name: vanillish
-
 Name: vanilluxe
-
 Name: deerling
-
 Name: sawsbuck
-
 Name: emolga
-
 Name: karrablast
-
 Name: escavalier
-
 Name: foongus
-
 Name: amoonguss
-
 Name: frillish
-
 Name: jellicent
-
 Name: alomomola
-
 Name: joltik
-
 Name: galvantula
-
 Name: ferroseed
-
 Name: ferrothorn
-
 Name: klink
-
 Name: klang
-
 Name: klinklang
-
 Name: tynamo
-
 Name: eelektrik
-
 Name: eelektross
-
 Name: elgyem
-
 Name: beheeyem
-
 Name: litwick
-
 Name: lampent
-
 Name: chandelure
-
 Name: axew
-
 Name: fraxure
-
 Name: haxorus
-
 Name: cubchoo
-
 Name: beartic
-
 Name: cryogonal
-
 Name: shelmet
-
 Name: accelgor
-
 Name: stunfisk
-
 Name: mienfoo
-
 Name: mienshao
-
 Name: druddigon
-
 Name: golett
-
 Name: golurk
-
 Name: pawniard
-
 Name: bisharp
-
 Name: bouffalant
-
 Name: rufflet
-
 Name: braviary
-
 Name: vullaby
-
 Name: mandibuzz
-
 Name: heatmor
-
 Name: durant
-
 Name: deino
-
 Name: zweilous
-
 Name: hydreigon
-
 Name: larvesta
-
 Name: volcarona
-
 Name: cobalion
-
 Name: terrakion
-
 Name: virizion
-
 Name: tornadus-incarnate
-
 Name: thundurus-incarnate
-
 Name: reshiram
-
 Name: zekrom
-
 Name: landorus-incarnate
-
 Name: kyurem
-
 Name: keldeo-ordinary
-
 Name: meloetta-aria
-
 Name: genesect
-
 Name: chespin
-
 Name: quilladin
-
 Name: chesnaught
-
 Name: fennekin
-
 Name: braixen
-
 Name: delphox
-
 Name: froakie
-
 Name: frogadier
-
 Name: greninja
-
 Name: bunnelby
-
 Name: diggersby
-
 Name: fletchling
-
 Name: fletchinder
-
 Name: talonflame
-
 Name: scatterbug
-
 Name: spewpa
-
 Name: vivillon
-
 Name: litleo
-
 Name: pyroar
-
 Name: flabebe
-
 Name: floette
-
 Name: florges
-
 Name: skiddo
-
 Name: gogoat
-
 Name: pancham
-
 Name: pangoro
-
 Name: furfrou
-
 Name: espurr
-
 Name: meowstic-male
-
 Name: honedge
-
 Name: doublade
-
 Name: aegislash-shield
-
 Name: spritzee
-
 Name: aromatisse
-
 Name: swirlix
-
 Name: slurpuff
-
 Name: inkay
-
 Name: malamar
-
 Name: binacle
-
 Name: barbaracle
-
 Name: skrelp
-
 Name: dragalge
-
 Name: clauncher
-
 Name: clawitzer
-
 Name: helioptile
-
 Name: heliolisk
-
 Name: tyrunt
-
 Name: tyrantrum
-
 Name: amaura
-
 Name: aurorus
-
 Name: sylveon
-
 Name: hawlucha
-
 Name: dedenne
-
 Name: carbink
-
 Name: goomy
-
 Name: sliggoo
-
 Name: goodra
-
 Name: klefki
-
 Name: phantump
-
 Name: trevenant
-
 Name: pumpkaboo-average
-
 Name: gourgeist-average
-
 Name: bergmite
-
 Name: avalugg
-
 Name: noibat
-
 Name: noivern
-
 Name: xerneas
-
 Name: yveltal
-
 Name: zygarde
-
 Name: diancie
-
 Name: hoopa
-
 Name: volcanion
-
 Name: rowlet
-
 Name: dartrix
-
 Name: decidueye
-
 Name: litten
-
 Name: torracat
-
 Name: incineroar
-
 Name: popplio
-
 Name: brionne
-
 Name: primarina
-
 Name: pikipek
-
 Name: trumbeak
-
 Name: toucannon
-
 Name: yungoos
-
 Name: gumshoos
-
 Name: grubbin
-
 Name: charjabug
-
 Name: vikavolt
-
 Name: crabrawler
-
 Name: crabominable
-
 Name: oricorio-baile
-
 Name: cutiefly
-
 Name: ribombee
-
 Name: rockruff
-
 Name: lycanroc-midday
-
 Name: wishiwashi-solo
-
 Name: mareanie
-
 Name: toxapex
-
 Name: mudbray
-
 Name: mudsdale
-
 Name: dewpider
-
 Name: araquanid
-
 Name: fomantis
-
 Name: lurantis
-
 Name: morelull
-
 Name: shiinotic
-
 Name: salandit
-
 Name: salazzle
-
 Name: stufful
-
 Name: bewear
-
 Name: bounsweet
-
 Name: steenee
-
 Name: tsareena
-
 Name: comfey
-
 Name: oranguru
-
 Name: passimian
-
 Name: wimpod
-
 Name: golisopod
-
 Name: sandygast
-
 Name: palossand
-
 Name: pyukumuku
-
 Name: type-null
-
 Name: silvally
-
 Name: minior-red-meteor
-
 Name: komala
-
 Name: turtonator
-
 Name: togedemaru
-
 Name: mimikyu-disguised
-
 Name: bruxish
-
 Name: drampa
-
 Name: dhelmise
-
 Name: jangmo-o
-
 Name: hakamo-o
-
 Name: kommo-o
-
 Name: tapu-koko
-
 Name: tapu-lele
-
 Name: tapu-bulu
-
 Name: tapu-fini
-
 Name: cosmog
-
 Name: cosmoem
-
 Name: solgaleo
-
 Name: lunala
-
 Name: nihilego
-
 Name: buzzwole
-
 Name: pheromosa
-
 Name: xurkitree
-
 Name: celesteela
-
 Name: kartana
-
 Name: guzzlord
-
 Name: necrozma
-
 Name: magearna
-
 Name: marshadow
-
 Name: poipole
-
 Name: naganadel
-
 Name: stakataka
-
 Name: blacephalon
-
 Name: zeraora
-
 Name: meltan
-
 Name: melmetal
-
 Name: grookey
-
 Name: thwackey
-
 Name: rillaboom
-
 Name: scorbunny
-
 Name: raboot
-
 Name: cinderace
-
 Name: sobble
-
 Name: drizzile
-
 Name: inteleon
-
 Name: skwovet
-
 Name: greedent
-
 Name: rookidee
-
 Name: corvisquire
-
 Name: corviknight
-
 Name: blipbug
-
 Name: dottler
-
 Name: orbeetle
-
 Name: nickit
-
 Name: thievul
-
 Name: gossifleur
-
 Name: eldegoss
-
 Name: wooloo
-
 Name: dubwool
-
 Name: chewtle
-
 Name: drednaw
-
 Name: yamper
-
 Name: boltund
-
 Name: rolycoly
-
 Name: carkol
-
 Name: coalossal
-
 Name: applin
-
 Name: flapple
-
 Name: appletun
-
 Name: silicobra
-
 Name: sandaconda
-
 Name: cramorant
-
 Name: arrokuda
-
 Name: barraskewda
-
 Name: toxel
-
 Name: toxtricity-amped
-
 Name: sizzlipede
-
 Name: centiskorch
-
 Name: clobbopus
-
 Name: grapploct
-
 Name: sinistea
-
 Name: polteageist
-
 Name: hatenna
-
 Name: hattrem
-
 Name: hatterene
-
 Name: impidimp
-
 Name: morgrem
-
 Name: grimmsnarl
-
 Name: obstagoon
-
 Name: perrserker
-
 Name: cursola
-
 Name: sirfetchd
-
 Name: mr-rime
-
 Name: runerigus
-
 Name: milcery
-
 Name: alcremie
-
 Name: falinks
-
 Name: pincurchin
-
 Name: snom
-
 Name: frosmoth
-
 Name: stonjourner
-
 Name: eiscue-ice
-
 Name: indeedee-male
-
 Name: morpeko
-
 Name: cufant
-
 Name: copperajah
-
 Name: dracozolt
-
 Name: arctozolt
-
 Name: dracovish
-
 Name: arctovish
-
 Name: duraludon
-
 Name: dreepy
-
 Name: drakloak
-
 Name: dragapult
-
 Name: zacian-hero
-
 Name: zamazenta-hero
-
 Name: eternatus
-
 Name: kubfu
-
 Name: urshifu-single-strike
-
 Name: zarude
-
 Name: regieleki
-
 Name: regidrago
-
 Name: glastrier
-
 Name: spectrier
-
 Name: calyrex
-
 Name: deoxys-attack
-
 Name: deoxys-defense
-
 Name: deoxys-speed
-
 Name: wormadam-sandy
-
 Name: wormadam-trash
-
 Name: shaymin-sky
-
 Name: giratina-origin
-
 Name: rotom-heat
-
 Name: rotom-wash
-
 Name: rotom-frost
-
 Name: rotom-fan
-
 Name: rotom-mow
-
 Name: castform-sunny
-
 Name: castform-rainy
-
 Name: castform-snowy
-
 Name: basculin-blue-striped
-
 Name: darmanitan-zen
-
 Name: meloetta-pirouette
-
 Name: tornadus-therian
-
 Name: thundurus-therian
-
 Name: landorus-therian
-
 Name: kyurem-black
-
 Name: kyurem-white
-
 Name: keldeo-resolute
-
 Name: meowstic-female
-
 Name: aegislash-blade
-
 Name: pumpkaboo-small
-
 Name: pumpkaboo-large
-
 Name: pumpkaboo-super
-
 Name: gourgeist-small
-
 Name: gourgeist-large
-
 Name: gourgeist-super
-
 Name: venusaur-mega
-
 Name: charizard-mega-x
-
 Name: charizard-mega-y
-
 Name: blastoise-mega
-
 Name: alakazam-mega
-
 Name: gengar-mega
-
 Name: kangaskhan-mega
-
 Name: pinsir-mega
-
 Name: gyarados-mega
-
 Name: aerodactyl-mega
-
 Name: mewtwo-mega-x
-
 Name: mewtwo-mega-y
-
 Name: ampharos-mega
-
 Name: scizor-mega
-
 Name: heracross-mega
-
 Name: houndoom-mega
-
 Name: tyranitar-mega
-
 Name: blaziken-mega
-
 Name: gardevoir-mega
-
 Name: mawile-mega
-
 Name: aggron-mega
-
 Name: medicham-mega
-
 Name: manectric-mega
-
 Name: banette-mega
-
 Name: absol-mega
-
 Name: garchomp-mega
-
 Name: lucario-mega
-
 Name: abomasnow-mega
-
 Name: floette-eternal
-
 Name: latias-mega
-
 Name: latios-mega
-
 Name: swampert-mega
-
 Name: sceptile-mega
-
 Name: sableye-mega
-
 Name: altaria-mega
-
 Name: gallade-mega
-
 Name: audino-mega
-
 Name: sharpedo-mega
-
 Name: slowbro-mega
-
 Name: steelix-mega
-
 Name: pidgeot-mega
-
 Name: glalie-mega
-
 Name: diancie-mega
-
 Name: metagross-mega
-
 Name: kyogre-primal
-
 Name: groudon-primal
-
 Name: rayquaza-mega
-
 Name: pikachu-rock-star
-
 Name: pikachu-belle
-
 Name: pikachu-pop-star
-
 Name: pikachu-phd
-
 Name: pikachu-libre
-
 Name: pikachu-cosplay
-
 Name: hoopa-unbound
-
 Name: camerupt-mega
-
 Name: lopunny-mega
-
 Name: salamence-mega
-
 Name: beedrill-mega
-
 Name: rattata-alola
-
 Name: raticate-alola
-
 Name: raticate-totem-alola
-
 Name: pikachu-original-cap
-
 Name: pikachu-hoenn-cap
-
 Name: pikachu-sinnoh-cap
-
 Name: pikachu-unova-cap
-
 Name: pikachu-kalos-cap
-
 Name: pikachu-alola-cap
-
 Name: raichu-alola
-
 Name: sandshrew-alola
-
 Name: sandslash-alola
-
 Name: vulpix-alola
-
 Name: ninetales-alola
-
 Name: diglett-alola
-
 Name: dugtrio-alola
-
 Name: meowth-alola
-
 Name: persian-alola
-
 Name: geodude-alola
-
 Name: graveler-alola
-
 Name: golem-alola
-
 Name: grimer-alola
-
 Name: muk-alola
-
 Name: exeggutor-alola
-
 Name: marowak-alola
-
 Name: greninja-battle-bond
-
 Name: greninja-ash
-
 Name: zygarde-10
-
 Name: zygarde-50
-
 Name: zygarde-complete
-
 Name: gumshoos-totem
-
 Name: vikavolt-totem
-
 Name: oricorio-pom-pom
-
 Name: oricorio-pau
-
 Name: oricorio-sensu
-
 Name: lycanroc-midnight
-
 Name: wishiwashi-school
-
 Name: lurantis-totem
-
 Name: salazzle-totem
-
 Name: minior-orange-meteor
-
 Name: minior-yellow-meteor
-
 Name: minior-green-meteor
-
 Name: minior-blue-meteor
-
 Name: minior-indigo-meteor
-
 Name: minior-violet-meteor
-
 Name: minior-red
-
 Name: minior-orange
-
 Name: minior-yellow
-
 Name: minior-green
-
 Name: minior-blue
-
 Name: minior-indigo
-
 Name: minior-violet
-
 Name: mimikyu-busted
-
 Name: mimikyu-totem-disguised
-
 Name: mimikyu-totem-busted
-
 Name: kommo-o-totem
-
 Name: magearna-original
-
 Name: pikachu-partner-cap
-
 Name: marowak-totem
-
 Name: ribombee-totem
-
 Name: rockruff-own-tempo
-
 Name: lycanroc-dusk
-
 Name: araquanid-totem
-
 Name: togedemaru-totem
-
 Name: necrozma-dusk
-
 Name: necrozma-dawn
-
 Name: necrozma-ultra
-
 Name: meowth-galar
-
 Name: ponyta-galar
-
 Name: rapidash-galar
-
 Name: slowpoke-galar
-
 Name: slowbro-galar
-
 Name: farfetchd-galar
-
 Name: weezing-galar
-
 Name: mr-mime-galar
-
 Name: articuno-galar
-
 Name: zapdos-galar
-
 Name: moltres-galar
-
 Name: slowking-galar
-
 Name: corsola-galar
-
 Name: zigzagoon-galar
-
 Name: linoone-galar
-
 Name: darumaka-galar
-
 Name: darmanitan-standard-galar
-
 Name: darmanitan-zen-galar
-
 Name: yamask-galar
-
 Name: stunfisk-galar
-
 Name: toxtricity-low-key
-
 Name: eiscue-noice
-
 Name: indeedee-female
-
 Name: zacian-crowned
-
 Name: zamazenta-crowned
-
 Name: urshifu-rapid-strike
-
 Name: calyrex-ice-rider
-
 Name: calyrex-shadow-rider
-
 Name: venusaur-gmax
-
 Name: charizard-gmax
-
 Name: blastoise-gmax
-
 Name: butterfree-gmax
-
 Name: pikachu-gmax
-
 Name: meowth-gmax
-
 Name: machamp-gmax
-
 Name: gengar-gmax
-
 Name: kingler-gmax
-
 Name: lapras-gmax
-
 Name: eevee-gmax
-
 Name: snorlax-gmax
-
 Name: garbodor-gmax
-
 Name: melmetal-gmax
-
 Name: rillaboom-gmax
-
 Name: cinderace-gmax
-
 Name: inteleon-gmax
-
 Name: corviknight-gmax
-
 Name: orbeetle-gmax
-
 Name: drednaw-gmax
-
 Name: coalossal-gmax
-
 Name: flapple-gmax
-
 Name: appletun-gmax
-
 Name: sandaconda-gmax
-
 Name: toxtricity-amped-gmax
-
 Name: centiskorch-gmax
-
 Name: hatterene-gmax
-
 Name: grimmsnarl-gmax
-
 Name: alcremie-gmax
-
 Name: copperajah-gmax
-
 Name: duraludon-gmax
-
 Name: eternatus-eternamax
-
 Name: urshifu-single-strike-gmax
-
 Name: urshifu-rapid-strike-gmax
-
 Name: toxtricity-low-key-gmax

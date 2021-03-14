@@ -34,5 +34,5 @@ print(output_from_parsed_all_pokemon_template)
 # ---------------------------------------
 # Create Files
 # ---------------------------------------
-with open("../output/Gotta Catch Em All.txt", "w") as fh:
+with open("../output/Text/Gotta Catch Em All.txt", "w") as fh:
     fh.write(output_from_parsed_all_pokemon_template)
