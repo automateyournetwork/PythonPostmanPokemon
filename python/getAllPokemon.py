@@ -4,7 +4,6 @@
 
 import json
 import requests
-import pprint
 
 # -------------------------
 # Jinja2
@@ -22,11 +21,13 @@ all_pokemon_template = env.get_template('all_pokemon_template.j2')
 # -------------------------
 # GET All Pokemon 
 # -------------------------
-all_pokemon_results = requests.post('https://pokeapi.co/api/v2/pokemon?limit=1200')
+all_pokemon_results = requests.get('https://pokeapi.co/api/v2/pokemon?limit=1200')
+all_pokemon_results_json = all_pokemon_results.json()
 
+print (all_pokemon_results.content)
 # ---------------------------------------
 # Template Results
 # ---------------------------------------
-output_from_parsed_all_pokemon_template = all_pokemon_template.render(results=all_pokemon_results['results'])
+output_from_parsed_all_pokemon_template = all_pokemon_template.render(results=all_pokemon_results_json['results'])
 
-pprint.pprint(output_from_parsed_all_pokemon_template)
+print(output_from_parsed_all_pokemon_template)
