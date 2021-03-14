@@ -52,6 +52,27 @@ Step 3. Install the rquired libraries
 (pokemon) C:\>pip install jinja2
 ```
 
-Step 4. Test the getAllPokemon.py script
+#### Have Fun ! 
+
+To run the Python scripts:
+
+Get All Pokemon List 
+
+```console
+(pokemon) C:\>python getAllPokemonList.py
+```
+
+Prints all Pokemon on the screen and creates a .txt file list (in the output folder)
+
+Get Pokemon Info 
+
+```console
+(pokemon) C:\>python getPokemonInfo.py
+Please type in the name of the Pokemon you are trying to catch: {{ type in your Pokemon's name }}
+```
+
+Prints an individual Pokemon's information to the screen and creates a .txt file of the data (in the output folder)
+
+
 
 

@@ -19,9 +19,15 @@ env = Environment(loader=FileSystemLoader(template_dir))
 pokemon_info_template = env.get_template('pokemon_info_template.j2')
 
 # -------------------------
+# Prompt for Pokemon Name
+# -------------------------
+pokemon_name = input("Please type in the name of the Pokemon you are trying to catch:")
+url_string =  'https://pokeapi.co/api/v2/pokemon/{0}'.format(pokemon_name)
+print (url_string)
+# -------------------------
 # GET Single Pokemon 
 # -------------------------
-single_pokemon_results = requests.get('https://pokeapi.co/api/v2/pokemon/charizard')
+single_pokemon_results = requests.get(url_string)
 single_pokemon_results_json = single_pokemon_results.json()
 
 # ---------------------------------------
