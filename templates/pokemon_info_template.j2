@@ -1,0 +1,26 @@
+Name: {{ results.name }}
+ID: {{ results.id }}
+Species: {{ results.species.name }}
+Types:{% for type in results.types %}
+    Type: {{ type.type.name }}
+        Slot: {{ type.slot }}{% endfor %}
+Height: {{ results.height }}
+Weight: {{ results.weight }}
+Base XP: {{ results.base_experience }}
+Default: {{ results.is_default }}
+Base Stats: {% for stat in results.stats %}
+    Name: {{ stat.stat.name }}
+        Base: {{ stat.base_stat }}
+        Effort: {{ stat.effort }}{% endfor %}
+Forms:{% for form in results.forms %}
+    {{ form.name }}{% endfor%}
+Abilities:{% for ability in results.abilities %}
+    {{ ability.ability.name }},{% if ability.is_hidden == true %} Hidden{% else %} Not Hidden{% endif %}, Slot: {{ ability.slot }}{% endfor %}
+Appears in the following Pokemon:{% for game in results.game_indices %}
+    {{ game.version.name }}{% endfor %}
+Moves:{% for move in results.moves %}
+    {{ move.move.name }}: {% for detail in move.version_group_details %}
+        Version: {{ detail.version_group.name }}
+            Learned at level: {{ detail.level_learned_at }}
+            Method learned: {{ detail.move_learn_method.name }}{% endfor %}{% endfor %}
+

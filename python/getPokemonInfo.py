@@ -16,18 +16,17 @@ env = Environment(loader=FileSystemLoader(template_dir))
 # ----------------
 # Template sources
 # ----------------
-all_pokemon_template = env.get_template('all_pokemon_template.j2')
+pokemon_info_template = env.get_template('pokemon_info_template.j2')
 
 # -------------------------
-# GET All Pokemon 
+# GET Single Pokemon 
 # -------------------------
-all_pokemon_results = requests.get('https://pokeapi.co/api/v2/pokemon?limit=1200')
-all_pokemon_results_json = all_pokemon_results.json()
+single_pokemon_results = requests.get('https://pokeapi.co/api/v2/pokemon/charizard')
+single_pokemon_results_json = single_pokemon_results.json()
 
-print (all_pokemon_results.content)
 # ---------------------------------------
 # Template Results
 # ---------------------------------------
-output_from_parsed_all_pokemon_template = all_pokemon_template.render(results=all_pokemon_results_json['results'])
+output_from_parsed_pokemon_info_template = pokemon_info_template.render(results=single_pokemon_results_json)
 
-print(output_from_parsed_all_pokemon_template)
+print(output_from_parsed_pokemon_info_template)
