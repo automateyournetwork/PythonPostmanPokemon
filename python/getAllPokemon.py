@@ -22,7 +22,7 @@ all_pokemon_template = env.get_template('all_pokemon_template.j2')
 # -------------------------
 # GET All Pokemon 
 # -------------------------
-all_pokemon_results = requests.post('https://pokeapi.co/api/v2/pokemon?limit=1200'
+all_pokemon_results = requests.post('https://pokeapi.co/api/v2/pokemon?limit=1200')
 
 # ---------------------------------------
 # Template Results
