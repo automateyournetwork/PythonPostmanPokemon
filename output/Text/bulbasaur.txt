@@ -1,0 +1,2710 @@
+Name: bulbasaur
+ID: 1
+Species: bulbasaur
+Types:
+    Type: grass
+        Slot: 1
+    Type: poison
+        Slot: 2
+Height: 7
+Weight: 69
+Base XP: 64
+Default: True
+Base Stats: 
+    Name: hp
+        Base: 45
+        Effort: 0
+    Name: attack
+        Base: 49
+        Effort: 0
+    Name: defense
+        Base: 49
+        Effort: 0
+    Name: special-attack
+        Base: 65
+        Effort: 1
+    Name: special-defense
+        Base: 65
+        Effort: 0
+    Name: speed
+        Base: 45
+        Effort: 0
+Forms:
+    bulbasaur
+Abilities:
+    overgrow, Not Hidden, Slot: 1
+    chlorophyll, Hidden, Slot: 3
+Appears in the following Pokemon:
+    red
+    blue
+    yellow
+    gold
+    silver
+    crystal
+    ruby
+    sapphire
+    emerald
+    firered
+    leafgreen
+    diamond
+    pearl
+    platinum
+    heartgold
+    soulsilver
+    black
+    white
+    black-2
+    white-2
+Moves:
+    razor-wind: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: egg
+        Version: crystal
+            Learned at level: 0
+            Method learned: egg
+    swords-dance: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: tutor
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    cut: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+    bind: 
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: tutor
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: tutor
+    vine-whip: 
+        Version: red-blue
+            Learned at level: 13
+            Method learned: level-up
+        Version: yellow
+            Learned at level: 13
+            Method learned: level-up
+        Version: gold-silver
+            Learned at level: 10
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 10
+            Method learned: level-up
+        Version: ruby-sapphire
+            Learned at level: 10
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 10
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 10
+            Method learned: level-up
+        Version: diamond-pearl
+            Learned at level: 9
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 9
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 9
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 9
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 10
+            Method learned: level-up
+        Version: xd
+            Learned at level: 10
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 9
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 9
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 9
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 7
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 9
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 9
+            Method learned: level-up
+    headbutt: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: tutor
+    tackle: 
+        Version: red-blue
+            Learned at level: 1
+            Method learned: level-up
+        Version: yellow
+            Learned at level: 1
+            Method learned: level-up
+        Version: gold-silver
+            Learned at level: 1
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 1
+            Method learned: level-up
+        Version: ruby-sapphire
+            Learned at level: 1
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 1
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 1
+            Method learned: level-up
+        Version: diamond-pearl
+            Learned at level: 1
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 1
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 1
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 1
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 1
+            Method learned: level-up
+        Version: xd
+            Learned at level: 1
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 1
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 1
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 1
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 1
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 1
+            Method learned: level-up
+    body-slam: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: tutor
+        Version: xd
+            Learned at level: 0
+            Method learned: tutor
+    take-down: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 15
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 15
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 15
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 15
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 15
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 15
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 15
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 15
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 15
+            Method learned: level-up
+    double-edge: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: tutor
+        Version: diamond-pearl
+            Learned at level: 27
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 27
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 27
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 27
+            Method learned: level-up
+        Version: xd
+            Learned at level: 0
+            Method learned: tutor
+        Version: black-2-white-2
+            Learned at level: 27
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 27
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 27
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 27
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 27
+            Method learned: level-up
+    growl: 
+        Version: red-blue
+            Learned at level: 1
+            Method learned: level-up
+        Version: yellow
+            Learned at level: 1
+            Method learned: level-up
+        Version: gold-silver
+            Learned at level: 4
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 4
+            Method learned: level-up
+        Version: ruby-sapphire
+            Learned at level: 4
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 4
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 4
+            Method learned: level-up
+        Version: diamond-pearl
+            Learned at level: 3
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 3
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 3
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 3
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 4
+            Method learned: level-up
+        Version: xd
+            Learned at level: 4
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 3
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 3
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 3
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 3
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 3
+            Method learned: level-up
+    strength: 
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+    mega-drain: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+    leech-seed: 
+        Version: red-blue
+            Learned at level: 7
+            Method learned: level-up
+        Version: yellow
+            Learned at level: 7
+            Method learned: level-up
+        Version: gold-silver
+            Learned at level: 7
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 7
+            Method learned: level-up
+        Version: ruby-sapphire
+            Learned at level: 7
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 7
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 7
+            Method learned: level-up
+        Version: diamond-pearl
+            Learned at level: 7
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 7
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 7
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 7
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 7
+            Method learned: level-up
+        Version: xd
+            Learned at level: 7
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 7
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 7
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 7
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 7
+            Method learned: level-up
+    growth: 
+        Version: red-blue
+            Learned at level: 34
+            Method learned: level-up
+        Version: yellow
+            Learned at level: 34
+            Method learned: level-up
+        Version: gold-silver
+            Learned at level: 32
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 32
+            Method learned: level-up
+        Version: ruby-sapphire
+            Learned at level: 32
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 32
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 32
+            Method learned: level-up
+        Version: diamond-pearl
+            Learned at level: 25
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 25
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 25
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 25
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 32
+            Method learned: level-up
+        Version: xd
+            Learned at level: 32
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 25
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 25
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 25
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 25
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 25
+            Method learned: level-up
+    razor-leaf: 
+        Version: red-blue
+            Learned at level: 27
+            Method learned: level-up
+        Version: yellow
+            Learned at level: 27
+            Method learned: level-up
+        Version: gold-silver
+            Learned at level: 20
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 20
+            Method learned: level-up
+        Version: ruby-sapphire
+            Learned at level: 20
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 20
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 20
+            Method learned: level-up
+        Version: diamond-pearl
+            Learned at level: 19
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 19
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 19
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 19
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 20
+            Method learned: level-up
+        Version: xd
+            Learned at level: 20
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 19
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 19
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 19
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 19
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 19
+            Method learned: level-up
+    solar-beam: 
+        Version: red-blue
+            Learned at level: 48
+            Method learned: level-up
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 48
+            Method learned: level-up
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: gold-silver
+            Learned at level: 46
+            Method learned: level-up
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 46
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 46
+            Method learned: level-up
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 46
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 46
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 46
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 46
+            Method learned: level-up
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    poison-powder: 
+        Version: red-blue
+            Learned at level: 20
+            Method learned: level-up
+        Version: yellow
+            Learned at level: 20
+            Method learned: level-up
+        Version: gold-silver
+            Learned at level: 15
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 15
+            Method learned: level-up
+        Version: ruby-sapphire
+            Learned at level: 15
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 15
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 15
+            Method learned: level-up
+        Version: diamond-pearl
+            Learned at level: 13
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 13
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 13
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 13
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 15
+            Method learned: level-up
+        Version: xd
+            Learned at level: 15
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 13
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 13
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 13
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 13
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 13
+            Method learned: level-up
+    sleep-powder: 
+        Version: red-blue
+            Learned at level: 41
+            Method learned: level-up
+        Version: yellow
+            Learned at level: 41
+            Method learned: level-up
+        Version: gold-silver
+            Learned at level: 15
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 15
+            Method learned: level-up
+        Version: ruby-sapphire
+            Learned at level: 15
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 15
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 15
+            Method learned: level-up
+        Version: diamond-pearl
+            Learned at level: 13
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 13
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 13
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 13
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 15
+            Method learned: level-up
+        Version: xd
+            Learned at level: 15
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 13
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 13
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 13
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 13
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 13
+            Method learned: level-up
+    petal-dance: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: egg
+        Version: crystal
+            Learned at level: 0
+            Method learned: egg
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: emerald
+            Learned at level: 0
+            Method learned: egg
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: egg
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    string-shot: 
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: tutor
+    toxic: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    rage: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+    mimic: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: tutor
+        Version: xd
+            Learned at level: 0
+            Method learned: tutor
+    double-team: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    defense-curl: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+    light-screen: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: egg
+        Version: crystal
+            Learned at level: 0
+            Method learned: egg
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: emerald
+            Learned at level: 0
+            Method learned: egg
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: egg
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    reflect: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+    bide: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+    sludge: 
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    skull-bash: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: egg
+        Version: crystal
+            Learned at level: 0
+            Method learned: egg
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: emerald
+            Learned at level: 0
+            Method learned: egg
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: egg
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    amnesia: 
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    flash: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+    rest: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    substitute: 
+        Version: red-blue
+            Learned at level: 0
+            Method learned: machine
+        Version: yellow
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: tutor
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: tutor
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    snore: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: platinum
+            Learned at level: 0
+            Method learned: tutor
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: tutor
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: tutor
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: tutor
+    curse: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: emerald
+            Learned at level: 0
+            Method learned: egg
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: egg
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    protect: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    sludge-bomb: 
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    mud-slap: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: platinum
+            Learned at level: 0
+            Method learned: tutor
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: tutor
+    giga-drain: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: tutor
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: tutor
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    endure: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    charm: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: egg
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: emerald
+            Learned at level: 0
+            Method learned: egg
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: egg
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    swagger: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: tutor
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    fury-cutter: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: platinum
+            Learned at level: 0
+            Method learned: tutor
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: tutor
+    attract: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    sleep-talk: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: tutor
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: tutor
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    return: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    frustration: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    safeguard: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: egg
+        Version: crystal
+            Learned at level: 0
+            Method learned: egg
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: emerald
+            Learned at level: 0
+            Method learned: egg
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: egg
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    sweet-scent: 
+        Version: gold-silver
+            Learned at level: 25
+            Method learned: level-up
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 25
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 25
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 25
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 25
+            Method learned: level-up
+        Version: diamond-pearl
+            Learned at level: 21
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 21
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 21
+            Method learned: level-up
+        Version: black-white
+            Learned at level: 21
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 25
+            Method learned: level-up
+        Version: xd
+            Learned at level: 25
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 21
+            Method learned: level-up
+        Version: x-y
+            Learned at level: 21
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 21
+            Method learned: level-up
+        Version: sun-moon
+            Learned at level: 21
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 21
+            Method learned: level-up
+    synthesis: 
+        Version: gold-silver
+            Learned at level: 39
+            Method learned: level-up
+        Version: crystal
+            Learned at level: 39
+            Method learned: level-up
+        Version: ruby-sapphire
+            Learned at level: 39
+            Method learned: level-up
+        Version: emerald
+            Learned at level: 39
+            Method learned: level-up
+        Version: firered-leafgreen
+            Learned at level: 39
+            Method learned: level-up
+        Version: diamond-pearl
+            Learned at level: 33
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 33
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 0
+            Method learned: tutor
+        Version: heartgold-soulsilver
+            Learned at level: 33
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: tutor
+        Version: black-white
+            Learned at level: 33
+            Method learned: level-up
+        Version: colosseum
+            Learned at level: 39
+            Method learned: level-up
+        Version: xd
+            Learned at level: 39
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 33
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: tutor
+        Version: x-y
+            Learned at level: 33
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 33
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: tutor
+        Version: sun-moon
+            Learned at level: 33
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 33
+            Method learned: level-up
+    hidden-power: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    sunny-day: 
+        Version: gold-silver
+            Learned at level: 0
+            Method learned: machine
+        Version: crystal
+            Learned at level: 0
+            Method learned: machine
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    rock-smash: 
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+    facade: 
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    nature-power: 
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    ingrain: 
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    knock-off: 
+        Version: platinum
+            Learned at level: 0
+            Method learned: tutor
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: tutor
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: tutor
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: tutor
+    secret-power: 
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+    grass-whistle: 
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: emerald
+            Learned at level: 0
+            Method learned: egg
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: egg
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    bullet-seed: 
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: emerald
+            Learned at level: 0
+            Method learned: machine
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: machine
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: colosseum
+            Learned at level: 0
+            Method learned: machine
+        Version: xd
+            Learned at level: 0
+            Method learned: machine
+    magical-leaf: 
+        Version: ruby-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: emerald
+            Learned at level: 0
+            Method learned: egg
+        Version: firered-leafgreen
+            Learned at level: 0
+            Method learned: egg
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    natural-gift: 
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+    worry-seed: 
+        Version: diamond-pearl
+            Learned at level: 31
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 31
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 31
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: tutor
+        Version: black-white
+            Learned at level: 31
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 31
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: tutor
+        Version: x-y
+            Learned at level: 31
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 31
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: tutor
+        Version: sun-moon
+            Learned at level: 31
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 31
+            Method learned: level-up
+    seed-bomb: 
+        Version: diamond-pearl
+            Learned at level: 37
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 37
+            Method learned: level-up
+        Version: platinum
+            Learned at level: 0
+            Method learned: tutor
+        Version: heartgold-soulsilver
+            Learned at level: 37
+            Method learned: level-up
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: tutor
+        Version: black-white
+            Learned at level: 37
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 37
+            Method learned: level-up
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: tutor
+        Version: x-y
+            Learned at level: 37
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 37
+            Method learned: level-up
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: tutor
+        Version: sun-moon
+            Learned at level: 37
+            Method learned: level-up
+        Version: ultra-sun-ultra-moon
+            Learned at level: 37
+            Method learned: level-up
+    energy-ball: 
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    leaf-storm: 
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: egg
+        Version: platinum
+            Learned at level: 0
+            Method learned: egg
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    power-whip: 
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: egg
+        Version: black-white
+            Learned at level: 0
+            Method learned: egg
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: egg
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    captivate: 
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+    grass-knot: 
+        Version: diamond-pearl
+            Learned at level: 0
+            Method learned: machine
+        Version: platinum
+            Learned at level: 0
+            Method learned: machine
+        Version: heartgold-soulsilver
+            Learned at level: 0
+            Method learned: machine
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    venoshock: 
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    round: 
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    echoed-voice: 
+        Version: black-white
+            Learned at level: 0
+            Method learned: machine
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: machine
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    grass-pledge: 
+        Version: black-white
+            Learned at level: 0
+            Method learned: tutor
+        Version: black-2-white-2
+            Learned at level: 0
+            Method learned: tutor
+        Version: x-y
+            Learned at level: 0
+            Method learned: tutor
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: tutor
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: tutor
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: tutor
+    work-up: 
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
+    grassy-terrain: 
+        Version: x-y
+            Learned at level: 0
+            Method learned: egg
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: egg
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: egg
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: egg
+    confide: 
+        Version: x-y
+            Learned at level: 0
+            Method learned: machine
+        Version: omega-ruby-alpha-sapphire
+            Learned at level: 0
+            Method learned: machine
+        Version: sun-moon
+            Learned at level: 0
+            Method learned: machine
+        Version: ultra-sun-ultra-moon
+            Learned at level: 0
+            Method learned: machine
