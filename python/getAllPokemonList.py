@@ -24,10 +24,15 @@ all_pokemon_template = env.get_template('all_pokemon_template.j2')
 all_pokemon_results = requests.get('https://pokeapi.co/api/v2/pokemon?limit=1200')
 all_pokemon_results_json = all_pokemon_results.json()
 
-print (all_pokemon_results.content)
 # ---------------------------------------
 # Template Results
 # ---------------------------------------
 output_from_parsed_all_pokemon_template = all_pokemon_template.render(results=all_pokemon_results_json['results'])
 
 print(output_from_parsed_all_pokemon_template)
+
+# ---------------------------------------
+# Create Files
+# ---------------------------------------
+with open("../output/Gotta Catch Em All.txt", "w") as fh:
+    fh.write(output_from_parsed_all_pokemon_template)
