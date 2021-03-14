@@ -20,7 +20,7 @@
     <td>{{ results.name }}</td>
     <td>{{ results.id }}</td>
     <td>{{ results.species.name }}</td>
-    <td>{% for type in results.types %}Type: {{ type.type.name }} Slot: {{ type.slot }}{% endfor %}</td>
+    <td>{% for type in results.types %}{{ type.type.name }}{% endfor %}</td>
     <td>{{ results.height }}</td>
     <td>{{ results.weight }}</td>   
     <td>{{ results.base_experience }}</td>

@@ -39,5 +39,5 @@ output_from_parsed_pokemon_webpage_template = pokemon_webpage_template.render(re
 # ---------------------------------------
 # Create Files
 # ---------------------------------------
-with open('../output/Text/{0}.html'.format(pokemon_name), 'w') as fh:
+with open('../output/HTML/{0}.html'.format(pokemon_name), 'w') as fh:
     fh.write(output_from_parsed_pokemon_webpage_template)
