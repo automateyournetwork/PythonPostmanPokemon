@@ -41,5 +41,5 @@ print(output_from_parsed_pokemon_info_template)
 # ---------------------------------------
 # Create Files
 # ---------------------------------------
-with open('../output/Text/{0}.csv'.format(pokemon_name), 'w') as fh:
+with open('../output/Text/{0}.txt'.format(pokemon_name), 'w') as fh:
     fh.write(output_from_parsed_pokemon_info_template)
