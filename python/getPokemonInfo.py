@@ -29,7 +29,12 @@ print (url_string)
 # GET Single Pokemon 
 # -------------------------
 single_pokemon_results = requests.get(url_string)
-single_pokemon_results_json = single_pokemon_results.json()
+if single_pokemon_results.ok:
+    single_pokemon_results_json = single_pokemon_results.json()
+else:
+    print ('Please check the name of your Pokemon! Make sure you use lowercase letters')
+    print (url_string)
+    quit()
 
 # ---------------------------------------
 # Template Results

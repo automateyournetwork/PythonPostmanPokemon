@@ -1,8 +1,43 @@
 
-<html><body>
+<html>
+<head>
+<style>
+table, th, td {
+  border: 1px solid black;
+}
+
+th, td {
+  padding: 10px;
+  background-color: white;
+  color: black;
+}
+
+body {
+  background-image: url({{ results.sprites.other.dream_world.front_default }});
+}
+
+h1 {
+  border: 5px solid red;
+  background-color: white;
+}
+
+h2 {
+  border: 4px dotted blue;
+  background-color: white;
+}
+
+caption {
+  border: 4px dotted purple;
+  background-color: white;
+}
+</style>
+<title>Pokedex information about {{ results.name }} </title>
+</head>
+<body>
 <h1>Pokedex information about <b> {{ results.name }} </b> </h1>
 
 <h2>Basic Information</h2>
+<br><br>
 <table>
 <caption>Basic Information</caption>
   <tr>
@@ -27,5 +62,104 @@
     <td>{{ results.is_default }}</td>
     <td>{% for form in results.forms %}{{ form.name }}{% endfor%}</td>
   </tr>
+</table>
+<br><br>
+<h2>Base Stats</h2>
+<table>
+<caption>Base Stats</caption>
+  <tr>
+    <th>Name</th>
+    <th>Base</th>
+    <th>Effort</th>
+  </tr>
+{% for stat in results.stats %}
+  <tr>  
+    <td>{{ stat.stat.name }}</td>
+    <td>{{ stat.base_stat }}</td>
+    <td>{{ stat.effort }}</td>
+  </tr>
+{% endfor %}  
+</table>
+<br><br>
+<h2>Abilities</h2>
+<table>
+<caption>Abilities</caption>
+  <tr>
+    <th>Name</th>
+    <th>Hidden</th>
+    <th>Slot</th>
+  </tr>
+{% for ability in results.abilities %}
+  <tr>  
+    <td>{{ ability.ability.name }}</td>
+    <td>{% if ability.is_hidden == true %}Hidden{% else %}Not Hidden{% endif %}</td>
+    <td>{{ ability.slot }}</td>
+  </tr>
+{% endfor %}  
+</table>
+<br><br>
+<h2>Appears in the following Pokemon Games</h2>
+<table>
+<caption>Appearances</caption>
+  <tr>
+    <th>Version</th>
+  </tr>
+{% for game in results.game_indices %}
+  <tr>  
+    <td>{{ game.version.name }}</td>
+  </tr>
+{% endfor %}  
+</table>
+<br><br>
+<h2>Moves</h2>
+<table>
+<caption>Moves</caption>
+  <tr>
+    <th>Name</th>
+    <th>Version</th>
+    <th>Learned at level</th>
+    <th>Method learned</th>
+  </tr>
+{% for move in results.moves %}{% for detail in move.version_group_details %}
+  <tr>  
+    <td>{{ move.move.name }}</td>
+    <td>{{ detail.version_group.name }}</td>
+    <td>{{ detail.level_learned_at }}</td>
+    <td>{{ detail.move_learn_method.name }}</td>
+  </tr>
+{% endfor %}{% endfor %}
+</table>
+<br><br>
+<h2>Gallery</h2>
+<table>
+<caption>Gallery - Front</caption>
+  <tr>
+    <th>Male</th>
+    <th>Female</th>
+    <th>Male - Shiny</th>
+    <th>Female - Shiny</th>
+  </tr>
+  <tr>  
+    <td><img src={{ results.sprites.front_default }}></td>
+    <td><img src={{ results.sprites.front_female }}></td>
+    <td><img src={{ results.sprites.front_shiny }}></td>
+    <td><img src={{ results.sprites.front_shiny_female }}></td>
+  </tr>  
+</table>
+<br><br>
+<table>
+<caption>Gallery - Back</caption>
+  <tr>
+    <th>Male</th>
+    <th>Female</th>
+    <th>Male - Shiny</th>
+    <th>Female - Shiny</th>
+  </tr>
+  <tr>  
+    <td><img src={{ results.sprites.back_default }}></td>
+    <td><img src={{ results.sprites.back_female }}></td>
+    <td><img src={{ results.sprites.back_shiny }}></td>
+    <td><img src={{ results.sprites.back_shiny_female }}></td>
+  </tr>  
 </table>
 </body></html>

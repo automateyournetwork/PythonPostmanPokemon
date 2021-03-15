@@ -24,12 +24,16 @@ pokemon_webpage_template = env.get_template('pokemon_webpage_template.j2')
 pokemon_name = input("Please type in the name of the Pokemon you are trying to catch:")
 url_string =  'https://pokeapi.co/api/v2/pokemon/{0}'.format(pokemon_name)
 
-print (url_string)
 # -------------------------
 # GET Single Pokemon 
 # -------------------------
 single_pokemon_results = requests.get(url_string)
-single_pokemon_results_json = single_pokemon_results.json()
+if single_pokemon_results.ok:
+    single_pokemon_results_json = single_pokemon_results.json()
+else:
+    print ('Please check the name of your Pokemon! Make sure you use lowercase letters')
+    print (url_string)
+    quit()
 
 # ---------------------------------------
 # Template Results
