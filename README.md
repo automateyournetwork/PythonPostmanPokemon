@@ -59,7 +59,7 @@ To run the Python scripts:
 Get All Pokemon List 
 
 ```console
-(pokemon) C:\>python getAllPokemonList.py
+(pokemon) C:\>{{ file location }}\python getAllPokemonList.py
 ```
 
 Prints all Pokemon on the screen and creates a .txt file list (in the output folder)
@@ -67,7 +67,7 @@ Prints all Pokemon on the screen and creates a .txt file list (in the output fol
 Get Pokemon Info 
 
 ```console
-(pokemon) C:\>python getPokemonInfo.py
+(pokemon) C:\>{{ file location }}\python getPokemonInfo.py
 Please type in the name of the Pokemon you are trying to catch: {{ type in your Pokemon's name }}
 ```
 
@@ -76,7 +76,7 @@ Prints an individual Pokemon's information to the screen and creates a .txt file
 Create Pokemon Website
 
 ```console
-(pokemon) C:\>python createPokemonWebsite.py
+(pokemon) C:\>{{ file location }}\python createPokemonWebsite.py
 Please type in the name of the Pokemon you are trying to catch: {{ type in your Pokemon's name }}
 ```
 
