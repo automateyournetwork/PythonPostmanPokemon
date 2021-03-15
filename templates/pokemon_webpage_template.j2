@@ -55,7 +55,7 @@ caption {
     <td>{{ results.name }}</td>
     <td>{{ results.id }}</td>
     <td>{{ results.species.name }}</td>
-    <td>{% for type in results.types %}{{ type.type.name }}{% endfor %}</td>
+    <td>{% for type in results.types %}{{ type.type.name }} {% endfor %}</td>
     <td>{{ results.height }}</td>
     <td>{{ results.weight }}</td>   
     <td>{{ results.base_experience }}</td>
@@ -64,6 +64,38 @@ caption {
   </tr>
 </table>
 <br><br>
+<h2>Gallery</h2>
+<table>
+<caption>Gallery - Front</caption>
+  <tr>
+    <th>Male</th>
+    <th>Female</th>
+    <th>Male - Shiny</th>
+    <th>Female - Shiny</th>
+  </tr>
+  <tr>  
+    <td><img src={{ results.sprites.front_default }}></td>
+    <td><img src={{ results.sprites.front_female }}></td>
+    <td><img src={{ results.sprites.front_shiny }}></td>
+    <td><img src={{ results.sprites.front_shiny_female }}></td>
+  </tr>  
+</table>
+<br><br>
+<table>
+<caption>Gallery - Back</caption>
+  <tr>
+    <th>Male</th>
+    <th>Female</th>
+    <th>Male - Shiny</th>
+    <th>Female - Shiny</th>
+  </tr>
+  <tr>  
+    <td><img src={{ results.sprites.back_default }}></td>
+    <td><img src={{ results.sprites.back_female }}></td>
+    <td><img src={{ results.sprites.back_shiny }}></td>
+    <td><img src={{ results.sprites.back_shiny_female }}></td>
+  </tr>  
+</table>
 <h2>Base Stats</h2>
 <table>
 <caption>Base Stats</caption>
@@ -128,38 +160,5 @@ caption {
     <td>{{ detail.move_learn_method.name }}</td>
   </tr>
 {% endfor %}{% endfor %}
-</table>
-<br><br>
-<h2>Gallery</h2>
-<table>
-<caption>Gallery - Front</caption>
-  <tr>
-    <th>Male</th>
-    <th>Female</th>
-    <th>Male - Shiny</th>
-    <th>Female - Shiny</th>
-  </tr>
-  <tr>  
-    <td><img src={{ results.sprites.front_default }}></td>
-    <td><img src={{ results.sprites.front_female }}></td>
-    <td><img src={{ results.sprites.front_shiny }}></td>
-    <td><img src={{ results.sprites.front_shiny_female }}></td>
-  </tr>  
-</table>
-<br><br>
-<table>
-<caption>Gallery - Back</caption>
-  <tr>
-    <th>Male</th>
-    <th>Female</th>
-    <th>Male - Shiny</th>
-    <th>Female - Shiny</th>
-  </tr>
-  <tr>  
-    <td><img src={{ results.sprites.back_default }}></td>
-    <td><img src={{ results.sprites.back_female }}></td>
-    <td><img src={{ results.sprites.back_shiny }}></td>
-    <td><img src={{ results.sprites.back_shiny_female }}></td>
-  </tr>  
 </table>
 </body></html>
