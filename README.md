@@ -73,6 +73,14 @@ Please type in the name of the Pokemon you are trying to catch: {{ type in your 
 
 Prints an individual Pokemon's information to the screen and creates a .txt file of the data (in the output folder)
 
+Create Pokemon Website
+
+```console
+(pokemon) C:\>python createPokemonWebsite.py
+Please type in the name of the Pokemon you are trying to catch: {{ type in your Pokemon's name }}
+```
+
+Creates a website for the Pokemon! 
 
 
 
